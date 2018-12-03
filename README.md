@@ -1,0 +1,9 @@
+# Corre-Vejigante-2.0
+A sucesor to the original Corre Vejigante infinite runner, but with a new and improved board mechanic, and other new additions. 
+Runs on Unreal Engine 4.20 and above. 
+
+PRE-ALPHA VERSION
+Working on: aesthetics and obstacles
+
+Fixed: 
+-Board moves under the character; random spawning walls solved.
