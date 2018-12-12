@@ -7,3 +7,5 @@ Working on: aesthetics and obstacles
 
 Fixed: 
 -Board moves under the character; random spawning walls solved.
+-Tostones spawn in lanes instead of all over the tile; vejigante also moves in lanes.
+-Walls no longer cause death.
