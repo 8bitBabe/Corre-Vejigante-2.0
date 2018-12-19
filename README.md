@@ -10,4 +10,7 @@ Fixed:
 -Tostones spawn in lanes instead of all over the tile; vejigante also moves in lanes.
 -Walls no longer cause death.
 -Obstacles spawn in lanes where tostones are not placed.
-New Water tile.
+-New Water tile.
+-New couple, unlock and big block tile.
+-Bug fixes.
+-Tile spawns are gradual.
