@@ -14,3 +14,6 @@ Fixed:
 -New couple, unlock and big block tile.
 -Bug fixes.
 -Tile spawns are gradual.
+-New mutliplier/super toston pickup
+-Adjusted hunger system..
+-Widgets!
