@@ -17,3 +17,5 @@ Fixed:
 -New mutliplier/super toston pickup
 -Adjusted hunger system..
 -Widgets!
+-Sprites for items and obstacles added.
+-Vejigante fall/defeat animation added (needs tweaking).
