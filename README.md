@@ -19,3 +19,4 @@ Fixed:
 -Widgets!
 -Sprites for items and obstacles added.
 -Vejigante fall/defeat animation added (needs tweaking).
+-Music and sound fx added.
