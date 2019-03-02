@@ -36,3 +36,6 @@ Fixed:
 -Vejigante fall/defeat animation added (needs tweaking).
 -Music and sound fx added.
 -Fixed collision boxes.
+
+
+ALL RIGHTS RESERVED 2019
