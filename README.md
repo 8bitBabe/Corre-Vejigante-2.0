@@ -1,6 +1,6 @@
 # Corre-Vejigante-2.0
 A sucesor to the original Corre Vejigante infinite runner, but with a new and improved board mechanic, and other new additions. 
-Runs on Unreal Engine 4.20 and above. 
+Runs on Unreal Engine 4.20 and above. No license is being offered for this program.
 
 WE MADE IT TO BETA
 Workign on: minor tweaks and augmenting difficulty.
