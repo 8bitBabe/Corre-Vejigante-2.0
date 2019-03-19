@@ -1,10 +1,9 @@
 # Corre-Vejigante-2.0
 A sucesor to the original Corre Vejigante infinite runner, but with a new and improved board mechanic, and other new additions. 
-Runs on Unreal Engine 4.20 and above. 
+Runs on Unreal Engine 4.20 and above. No license is being offered for this program.
 
 WE MADE IT TO BETA
-Workign on: minor tweaks and augmenting difficulty
-The gradual speed to the floor will remain on hold indefinitely.
+Workign on: minor tweaks and augmenting difficulty.
 
 Fixed:
 -Better wall lighting.
@@ -16,6 +15,7 @@ Fixed:
 -Item notifications.
 -Restaurant ceiling added.
 -Main camera adjusted.
+-Floor speed finally added (thank you Prof. Burgos)
 
 PRE-ALPHA VERSION
 Working on: aesthetics and obstacles
@@ -36,3 +36,6 @@ Fixed:
 -Vejigante fall/defeat animation added (needs tweaking).
 -Music and sound fx added.
 -Fixed collision boxes.
+
+
+ALL RIGHTS RESERVED 2019
