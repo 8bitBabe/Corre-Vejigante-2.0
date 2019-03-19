@@ -3,7 +3,7 @@ A sucesor to the original Corre Vejigante infinite runner, but with a new and im
 Runs on Unreal Engine 4.20 and above. No license is being offered for this program.
 
 WE MADE IT TO BETA
-Workign on: minor tweaks and augmenting difficulty.
+Working on: minor tweaks and adjusting difficulty.
 
 Fixed:
 -Better wall lighting.
@@ -16,9 +16,10 @@ Fixed:
 -Restaurant ceiling added.
 -Main camera adjusted.
 -Floor speed finally added (thank you Prof. Burgos)
+-New skins and UI icon sprites!
 
 PRE-ALPHA VERSION
-Working on: aesthetics and obstacles
+Working on: aesthetics, mechanics and obstacles
 
 Fixed: 
 -Board moves under the character; random spawning walls solved.
