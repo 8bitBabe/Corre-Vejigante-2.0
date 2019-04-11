@@ -17,6 +17,12 @@ Fixed:
 -Main camera adjusted.
 -Floor speed finally added (thank you Prof. Burgos)
 -New skins and UI icon sprites!
+-[New board] Welcome to El Yunque!
+-Menu adjustments.
+-Floor spawn bug fix
+-New music!
+-New floor.
+-New sprites.
 
 PRE-ALPHA VERSION
 Working on: aesthetics, mechanics and obstacles
