@@ -23,6 +23,8 @@ Fixed:
 -New music!
 -New floor.
 -New sprites.
+-New board!
+-Main menu, speed and volume adjustment.
 
 PRE-ALPHA VERSION
 Working on: aesthetics, mechanics and obstacles
