@@ -25,6 +25,8 @@ Fixed:
 -New sprites.
 -New board!
 -Main menu, speed and volume adjustment.
+-Highscores!
+-Bug fixes; menu adjustments.
 
 PRE-ALPHA VERSION
 Working on: aesthetics, mechanics and obstacles
