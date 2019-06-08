@@ -5,6 +5,7 @@ Presented at Puerto Rico Comic Con 2019 and Enfoque International Film Festival 
 
 WE MADE IT TO BETA
 Working on: minor tweaks and adjusting difficulty.
+Closed Beta in progress. 
 
 Fixed:
 -Better wall lighting.
